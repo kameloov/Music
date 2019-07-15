@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txt_empty">No data !!</string>
+    <string name="regesterd_successfuly">regestered successfuly</string>
+    <string name="registeration_failed">Failed to register , please check your data</string>
+    <string name="load_ad_error">Error  loading video , please try again later</string>
+    <string name="cancel">cancel</string>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "822913660719",
+    "firebase_url": "https://music-4f5a1.firebaseio.com",
+    "project_id": "music-4f5a1",
+    "storage_bucket": "music-4f5a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822913660719:android:29a77460c789c4e6",
+        "android_client_info": {
+          "package_name": "com.orientalmusic.music"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822913660719-6e84rpm4oks0ilh83jhrpu0bip5o352f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.orientalmusic.music",
+            "certificate_hash": "66cb2c173cfa03274ef0c61467bf99bc69ebea91"
+          }
+        },
+        {
+          "client_id": "822913660719-tgkeda9fu6dscmd1o5po6gpjpnlesohv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXjoxJWDNVp3LwfglfcpVl81_s6uTWcL0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822913660719-tgkeda9fu6dscmd1o5po6gpjpnlesohv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
